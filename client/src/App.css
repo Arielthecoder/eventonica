@@ -1,0 +1,23 @@
+.App {
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.Events {
+  box-shadow: 1px, lightcoral;
+}
+
+h1 {
+  color: #54006e;
+  margin-bottom: 50px !important;
+}
+
+form{
+  margin-top: 50px;
+}
+
+h2 {
+  color: blueviolet;
+}
