@@ -17,7 +17,7 @@ const FormEvent = (props) => {
 
     return(
         <form onSubmit={handleSubmit}>
-            <h2>Add a new event!!</h2>
+            <h2>Add a new event!</h2>
 
             <label>Event Title</label>
             <input type="text" name="title" required placeholder="Title of your Event" ref={userTitle}/>
